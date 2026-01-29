@@ -34,7 +34,7 @@ uv run main.py
 | `S` | Reverse thrust |
 | `A/D` | Rotate left/right |
 | `SPACE` | Shoot |
-| `SHIFT` | Warp (hold to charge, release to teleport) |
+| `SHIFT` | Warp (hold to aim & slow down time, release to teleport) |
 | `1` | Fire homing rockets |
 | `2` | Deploy mine |
 | `ESC` | Pause / Menu |
